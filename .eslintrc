@@ -1,0 +1,4 @@
+{
+  "extends": "@alexbainter/eslint-config/node",
+  "parserOptions": { "ecmaVersion": 2018 }
+}

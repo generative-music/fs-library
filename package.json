@@ -1,0 +1,30 @@
+{
+  "name": "@generative-music/fs-library",
+  "version": "0.0.0",
+  "description": "A sample-based instrument library factor for Node",
+  "main": "lib/create-library.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "eslint": "^7.12.0",
+    "prettier": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/generative-music/fs-library.git"
+  },
+  "author": "Alex Bainter <alex@alexbainter.com> (https://alexbainter.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/generative-music/fs-library/issues"
+  },
+  "homepage": "https://github.com/generative-music/fs-library#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
